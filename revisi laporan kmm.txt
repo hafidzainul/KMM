@@ -1,0 +1,4 @@
+latarbelakang
+-menjelaskan  kondisi (kelemahan) sistem yang ada saat ini dari sisi tehnologi, securiti, manajemen sistem, dan fitur
+
+tidak perlu membahas proses bisnis langsung membahas perbaikan sistem

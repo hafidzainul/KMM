@@ -1,0 +1,3 @@
+mendefinisikan kenapa membangun sistem tesebut dan bagaimana cara membuat sistem tersebut
+apa tujuan dari membangun sistem tersebut, dan berapa resource atau resource apa saja yang dibutuhkan untuk membangun sistem tersebut.
+Teknik/metode SDLC untuk mengembangkan sebuah sistem antara lain

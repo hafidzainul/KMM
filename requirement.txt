@@ -1,0 +1,15 @@
+requirement:
+1. perusahaan membuat lowongan pekerjaan
+2. member mendaftar lowongan pekerjaan
+3. perusahaan melakukan penerimaan member yang mendaftar lowongan
+4. perusahaan dimasukkan dengan 2 cara dimasukkan admin atau mendaftar sendiri
+5. kedepannya sistem dapat menerima lowongan magang, sehingga mahasiswa dapat
+   melakukan pelamaran magang
+6. database akan dikoneksikan ke database remun di simpeg
+
+permasalahan:
+1. member yang sudah seharusnya tidak aktif menjadi member masih aktif
+2. tidak ada data tentang mahasiswa alumni uns setelah lulus dari uns
+
+Harapan:
+1. dari sistem ini, dapat memetakan persebaran alumni uns

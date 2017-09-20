@@ -1,0 +1,17 @@
+Fase dalam pengembangan CDC menggunakan metode RAD dibagi menjadi sebagai berikut:
+1.5.1.	Requrement planning
+	Merupakan fase dimana User, Manjer, Staff IT mendiskusikan dan menyetujui mengenai kebutuhan bisnis, lingkupan perangkat lunak, kendala, dan system requirements nya.
+1.5.2.	User Design
+	Pada fase ini, sistem analis bersama dengan user mendesain model dan mengembangkan prototipe yang mewakili seluruh proses sistem, input, dan output sesuai dengan perangkat lunak yang ingin dibangun.
+1.5.3.	Construction
+	Staff IT atau programmer berfokus mengembangkan perangkat lunak pada fase ini. Yakni antara lain koding, integrase-unit, dan testing sistem. Perangkat lunak yang dikembangkan mengikuti hasil dari fase design yang telah disetujui oleh user. Namun bagaimanapun juga, user masih dapat melakukan perubahan request pada fase ini.
+
+
+1.5.4.	Cutover
+	Fase Cutover merupakan fase terakhir pada metode RAD, yakni merupakan fase dimana konversi data, testing sistem secara keseluruhan, peralihan ke sistem baru, dan training user dilakukan.
+
+RAD
+
+Usecase diagram
+
+Desain Struktur Database
